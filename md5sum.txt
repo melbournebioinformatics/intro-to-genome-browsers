@@ -16,4 +16,4 @@
 "learners/reference.md" "ee5420c5d44d1f6ed8913b3d1d5638b6" "site/built/reference.md" "2025-12-22"
 "learners/contact.md" "32fa325dcd535e680765f7cdc325b3d8" "site/built/contact.md" "2025-12-22"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2025-12-22"
-"renv/profiles/lesson-requirements/renv.lock" "9630feb427a73cc53ba0034d1fa6eb2a" "site/built/renv.lock" "2025-12-22"
+"renv/profiles/lesson-requirements/renv.lock" "89ed2158a3960d8340bb8aa6762a3465" "site/built/renv.lock" "2025-12-23"
